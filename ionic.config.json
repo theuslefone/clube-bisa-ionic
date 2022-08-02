@@ -1,0 +1,7 @@
+{
+  "name": "bisaweb ",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
